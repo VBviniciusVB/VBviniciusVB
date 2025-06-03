@@ -1,17 +1,20 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cd984aa9-834c-4526-9faa-5ec30187242f" width="200" style="border-radius: 16px;" />
   <h1>Vinicius da Silva Viana</h1>
-  <p>🚀 Web Developer | Passionate about Clean Code, UX, and Performance</p>
+  <p>🚀 Full Stack Developer | Passionate about Clean Code, UI, UX, and Performance</p>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <a href="https://wa.me/+5548987654321" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-da-silva-viana-557233138/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank">
+  <a href="https://vsv-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="viniciusvianalaguna@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
