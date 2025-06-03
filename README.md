@@ -17,22 +17,31 @@
   <a href="viniciusvianalaguna@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=VBviniciusVB&style=flat-square&color=blue" alt="Visitor Count" />
+  </p>
 </p>
 
 ---
 
+
+
 ### 🌐 About Me
 
-- 🎓 Self-taught developer focused on modern web technologies  
-- 🧠 Exploring **Nuxt**, **Vue.js**, **Tailwind CSS**, and the JavaScript ecosystem  
-- 🐳 DevOps enthusiast with **Docker** and containerized workflows  
-- 💬 Always open to collaboration and continuous learning  
-- 🎯 Current goal: building scalable and high-performance web apps
+ 🎓 Self-taught developer focused on modern web technologies  
+ 🧠 Exploring **Nuxt**, **Vue.js**, **Tailwind CSS**, and the JavaScript ecosystem  
+ 🐳 DevOps enthusiast with **Docker** and containerized workflows  
+ 💬 Always open to collaboration and continuous learning  
+ 🎯 Current goal: building scalable and high-performance web apps
+
+
 
 ---
+
+
+
 ### 🛠️ Technologies & Tools
 
-<div align="center">
 
 #### Programming Languages
 <p align="center">
@@ -114,15 +123,4 @@
   <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-</p>
-
- </div>
-
-
----
-
-### 📟 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VBviniciusVB&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
